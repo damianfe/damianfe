@@ -2,7 +2,7 @@
  
  ## 👨 Blog 👨
 - 🖥️ Soy un estudiante becado de Digital House - Formar en el curso de Desarrollo Web Full Stack, que le apasionan las technologias web, como javascript, NODE JS, HTML and CSS.
-- :men_tecnologist: Busco gnar experiencia y seguir aprendiendo del mundo de la programacion.
+- 👨‍💻 Busco gnar experiencia y seguir aprendiendo del mundo de la programacion.
 
 <div align = "center">
 <a href="https://github.com/damianfe">
