@@ -18,8 +18,8 @@
  ##
  
 <div> 
-  <a href="mailto:damianrocio12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href ="https://www.linkedin.com/in/damian-fernandez-01a187229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/+541158920849" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="mailto:damianrocio12@gmail.com" target="_blank"><img width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://www.linkedin.com/in/damian-fernandez-01a187229/" target="_blank"><img width="180" align="space-between" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/+541158920849" target="_blank"><img width="180" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
- <img width="75%" src="https://c.tenor.com/xwjN54qq-PAAAAAC/onepiece.gif"/>
+ <img width="100%" height="500em" src="https://c.tenor.com/xwjN54qq-PAAAAAC/onepiece.gif"/>
