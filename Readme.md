@@ -1,4 +1,4 @@
-# Hola soy Damian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+# Hola soy Damian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
  
  ## 👨 Blog 👨
 - 🖥️ Soy un estudiante becado de Digital House - Formar en el curso de Desarrollo Web Full Stack, que le apasionan las technologias web, como javascript, NODE JS, HTML and CSS.
