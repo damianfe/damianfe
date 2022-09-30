@@ -3,19 +3,35 @@
  ## 👨 Blog 👨
 - 🖥️ Soy un Desarrollor Web Full Stack, que le apasionan las tecnologias  como javascript, TypeScript, React, NodeJS, Docker, mysql , Postrgres  Api HTML and CSS.
 - 👨‍💻 Busco ganar experiencia y seguir aprendiendo del mundo de la programacion.
+#<h2>Mis Skills:</h2>
+![image](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-5F9EA0?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-FF1493?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![image](https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=HTML5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![image](https://img.shields.io/badge/-Postman-FF4500?style=for-the-badge&logo=postman&logoColor=white)
+![image](https://img.shields.io/badge/SCRUM-000080?style=for-the-badge&logo=SCRUM&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/sequelize-00CCAA?style=for-the-badge&logo=sequelize&logoColor=white)
+![image](https://img.shields.io/badge/-VITE-494661?style=for-the-badge&logo=vite&logoColor=white)
+![image](https://img.shields.io/badge/JEST-darkgreen?style=for-the-badge&logo=JEST&logoColor=white)
+![image](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=00CED1)
+![image](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-E91E63?style=for-the-badge&logo=SASS&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-663399?style=for-the-badge&logo=heroku&logoColor=white)
+
 
 <div align="center">
 <a href="https://github.com/damianfe">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=damianfe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianfe&layout=compact&langs_count=7&theme=merko" />
 </div>
-<div style="display: flex; justify-content: center;"><br>
-  <img align="center" alt="Damian-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Damian-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Damian-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Damian-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Damian-NODEJS" height="50" width="50" src="https://user-images.githubusercontent.com/90562495/173253207-880800ee-9f17-4117-b70a-1d807aa3a94d.jpg">
-</div>
+
  
  ##
  
