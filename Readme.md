@@ -24,6 +24,7 @@
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-E91E63?style=for-the-badge&logo=SASS&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-663399?style=for-the-badge&logo=heroku&logoColor=white)
+![image](	https://img.shields.io/badge/Netlify-525558?style=for-the-badge&logo=netlify&logoColor=black)
 
 
 <div align="center">
