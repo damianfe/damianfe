@@ -40,4 +40,4 @@
   <a href ="https://www.linkedin.com/in/damian-fernandez-01a187229/" target="_blank"><img width="180" align="space-between" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+541158920849" target="_blank"><img width="180" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
- <img width="75%" height="300px" src="https://user-images.githubusercontent.com/90562495/173252485-befa5f9e-4acd-4b08-b6d6-1ffc8ef9a6f2.gif"/>
+ 
