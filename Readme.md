@@ -20,7 +20,7 @@
 ![image](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=00CED1)
 ![image](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-E91E63?style=for-the-badge&logo=SASS&logoColor=white)
 ![image](	https://img.shields.io/badge/Netlify-525558?style=for-the-badge&logo=netlify&logoColor=black)
