@@ -32,7 +32,9 @@
 
  
  ##
- 
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=damianfe&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
 <div> 
   <a href="mailto:damian.fernandez.dev@gmail.com" target="_blank"><img width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/damian-fernandez-01a187229/" target="_blank"><img width="180" align="space-between" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
